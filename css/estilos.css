@@ -1,0 +1,13 @@
+/*body {background-color:#fffa00;}*/
+body{
+background-size:cover; 
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%), url(../figuras/1.jpg);
+}
+
+h3 {color:yellow;}
+h4 {color:blue;}
+p {color:white; font-size:12pt; font-family:¨Verdana¨,sans-serif;}
+
+table.center {
+      margin-left:auto;
+      margin-right:auto;}
